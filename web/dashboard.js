@@ -162,23 +162,23 @@ var NETDATA = window.NETDATA || {};
         slate: {
             bootstrap_css: NETDATA.serverDefault + 'css/bootstrap-slate-flat-3.3.7.css?v20161229-1',
             dashboard_css: NETDATA.serverDefault + 'dashboard.slate.css?v20170605-2',
-            background: '#272b30',
-            foreground: '#C8C8C8',
-            grid: '#283236',
-            axis: '#283236',
+            background: '#222222',
+            foreground: '#CCCCCC',
+            grid: '#222222',
+            axis: '#222222',
 /*          colors: [   '#55bb33', '#ff2222',   '#0099C6', '#faa11b',   '#adbce0', '#DDDD00',
                         '#4178ba', '#f58122',   '#a5cc39', '#f58667',   '#f5ef89', '#cf93c0',
                         '#a5d18a', '#b8539d',   '#3954a3', '#c8a9cf',   '#c7de8a', '#fad20a',
                         '#a6a479', '#a66da8' ],
 */
-            colors: [   '#66AA00', '#FE3912',   '#3366CC', '#D66300',   '#0099C6', '#DDDD00',
-                        '#5054e6', '#EE9911',   '#BB44CC', '#e45757',   '#ef0aef', '#CC7700',
-                        '#22AA99', '#109618',   '#905bfd', '#f54882',   '#4381bf', '#ff3737',
-                        '#329262', '#3B3EFF' ],
-            easypiechart_track: '#373b40',
-            easypiechart_scale: '#373b40',
-            gauge_pointer: '#474b50',
-            gauge_stroke: '#373b40',
+            colors: [   '#87af87', '#d78787',   '#87afd7', '#d7af87',   '#87afaf', '#d7d787',
+                        '#8787af', '#d787af',   '#5f875f', '#af5f5f',   '#5f87af', '#af875f',
+                        '#5f8787', '#afaf87',   '#5f5f87', '#af5f87' ],
+
+            easypiechart_track: '#444444',
+            easypiechart_scale: '#444444',
+            gauge_pointer: '#555555',
+            gauge_stroke: '#444444',
             gauge_gradient: false
         }
     };
