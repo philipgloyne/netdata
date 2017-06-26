@@ -171,9 +171,10 @@ var NETDATA = window.NETDATA || {};
                         '#a5d18a', '#b8539d',   '#3954a3', '#c8a9cf',   '#c7de8a', '#fad20a',
                         '#a6a479', '#a66da8' ],
 */
-            colors: [   '#87af87', '#d78787',   '#87afd7', '#d7af87',   '#87afaf', '#d7d787',
-                        '#8787af', '#d787af',   '#5f875f', '#af5f5f',   '#5f87af', '#af875f',
-                        '#5f8787', '#afaf87',   '#5f5f87', '#af5f87' ],
+            colors: [   '#87afd7', '#d7af87',   '#87af87', '#d78787',   '#87afaf', '#d7d787',
+                        '#8787af', '#d787af',   '#5f87af', '#af875f',   '#5f875f', '#af5f5f',   
+                        '#5f8787', '#afaf87',   '#5f5f87', '#af5f87',   '#87afd7', '#d7af87',   
+                        '#87af87', '#d78787' ],
 
             easypiechart_track: '#444444',
             easypiechart_scale: '#444444',
